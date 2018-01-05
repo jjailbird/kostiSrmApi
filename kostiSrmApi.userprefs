@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{661436F3-F249-4A5A-B1E7-6340514E3169}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/kostiSrmContext.cs">
+    <Files>
+      <File FileName="Models/kostiSrmContext.cs" Line="9" Column="14" />
+      <File FileName="Startup.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.kostiSrmApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
